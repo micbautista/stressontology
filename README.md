@@ -1,2 +1,0 @@
-# stressontology
-Stress Ontology
